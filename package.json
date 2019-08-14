@@ -1,5 +1,5 @@
 {
-  "main" : "index.js",
+  "main" : "index.html",
   "requires": true,
   "lockfileVersion": 1,
   "engines": {

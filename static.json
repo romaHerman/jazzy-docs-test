@@ -1,1 +1,3 @@
-{"root":"Docs"}
+{"root":"Docs",
+"https_only": true,
+"basic_auth": true}
